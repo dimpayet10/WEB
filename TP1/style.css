@@ -49,3 +49,42 @@ header
   box-shadow: 0 10px 6px rgb(0 0 0 / 10%);
     background: rgba(9,146,243,0.8);
 }
+
+
+body
+{
+margin: 0;
+width: 100%;
+font-family: Georgia;
+
+}
+
+section {
+
+  border: solid 1.5px rgba(9,146,243,0.8);
+}
+
+main {
+margin-top: 50px;
+}
+
+section {
+  margin: 0 100px 50px 100px;
+  padding: 10px;
+
+}
+
+main h1 {
+
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.textStyle {
+text-decoration: underline;
+}
+
+section li{
+    margin: 10px 0;
+
+}
