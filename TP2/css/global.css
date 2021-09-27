@@ -221,3 +221,23 @@ html {
     font-size: 62.5%; /* (Ré-équilibrage du Rem face au Pixel pour des calculs simples) : 10px <=> 1.0 rem */
 }
 
+body {
+
+margin-left: 3%;
+margin-right: 3%;
+}
+
+@media (max-width: 575.98px) {
+    .share
+    {
+        visibility: hidden;
+
+    }
+    .formSearch
+    {
+        visibility: hidden;
+    }
+
+}
+
+
